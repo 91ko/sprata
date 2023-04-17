@@ -1,0 +1,2 @@
+\파이썬 파일을 실행파일로 만들기\
+pyinstaller --onefile --noconsole your_script.py
